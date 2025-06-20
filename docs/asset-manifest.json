@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/refresko/static/css/main.108d570f.css",
+    "main.js": "/refresko/static/js/main.740cea37.js",
+    "static/media/logo.png": "/refresko/static/media/logo.434551ac1c5ef4b6c68d.png",
+    "static/media/Serving-Chill-Vibes-Refreshi-6-18-2025.gif": "/refresko/static/media/Serving-Chill-Vibes-Refreshi-6-18-2025.63530e8e258bb0ebb207.gif",
+    "static/media/4.jpg": "/refresko/static/media/4.b11ce815c2e0bfbb7098.jpg",
+    "static/media/1.jpg": "/refresko/static/media/1.45b18b0e0711aa1cc1bc.jpg",
+    "static/media/0.jpg": "/refresko/static/media/0.8b2af85c59716aab7509.jpg",
+    "static/media/3.jpg": "/refresko/static/media/3.6b83ed3544d4072e5820.jpg",
+    "static/media/2.jpg": "/refresko/static/media/2.59603f76363c47f1c8e7.jpg",
+    "static/media/6.jpg": "/refresko/static/media/6.e9a4ac81266304ec8bdd.jpg",
+    "static/media/5.jpg": "/refresko/static/media/5.9b7307411daaa404bbfa.jpg",
+    "index.html": "/refresko/index.html",
+    "main.108d570f.css.map": "/refresko/static/css/main.108d570f.css.map",
+    "main.740cea37.js.map": "/refresko/static/js/main.740cea37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108d570f.css",
+    "static/js/main.740cea37.js"
+  ]
+}
