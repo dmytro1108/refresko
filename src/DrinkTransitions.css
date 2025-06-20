@@ -1,0 +1,20 @@
+/* DrinkTransitions.css */
+.banner-container {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.left-button {
+  left: 20px;
+}
+
+.right-button {
+  right: 20px;
+}
